@@ -1,3 +1,3 @@
 # FILE_UPLOADER
-***A file uploader coded in PHP/MYSQL*** 
+***A file uploader coded in PHP/MYSQLi*** 
 # USER CAN UPLOAD ANY KIND OF FILE TO THE DATABASE AND ALSO VIEW THEM
