@@ -1,0 +1,25 @@
+body
+{
+	background:#fff;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	text-align:center;
+        background-image: url("body1.jpg");
+}
+#body
+{
+	margin-top:100px;
+}
+
+#body table
+{
+	margin:0 auto;
+	position:relative;
+	bottom:50px;
+}
+
+table td,th
+{
+	padding:20px;
+	border: solid #9fa8b0 1px;
+	border-collapse:collapse;
+}
